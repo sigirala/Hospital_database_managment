@@ -1,1 +1,2 @@
 # Hospital_database_managment
+The Hospital Database Management System consolidates vital healthcare information, enabling efficient management of physicians, nurses, operations, patient data, and financial operations, including insurance claims and revenue monitoring. With Balsamiq screens for CRUD operations in the attached PDF, the Hospital.bak file can be loaded onto Microsoft SQL Server for database access and manipulation using the provided Hospital.sql file containing SQL commands for CRUD operations.
